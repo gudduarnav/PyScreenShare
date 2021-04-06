@@ -19,9 +19,9 @@
 3. waitress module  
   
   
-### Developed by  
-## Arnav Mukhopadhyay  
-## Ruby Jane P. Agullana  
+## Developed by  
+### Arnav Mukhopadhyay  
+### Ruby Jane P. Agullana  
   
   
 #flask #python #screenshare #streamimage #javascript #html #renderfileflask  
