@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PyScreenShare</title>
+
+    <script>
+        setInterval(myTimer, 1000);
+
+        function myTimer()
+        {
+            var tm = new Date().getTime();
+            document.getElementById("scr").src = "/scr/"+tm+".jpg#"+tm;
+
+        }
+
+    </script>
+
+</head>
+<body>
+    <img id="scr" src="/scr/0.png" width="1400" height="800">
+</body>
+</html>
