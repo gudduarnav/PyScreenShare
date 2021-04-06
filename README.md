@@ -10,8 +10,8 @@
 **python server.py**   
 3. For **RELEASE VERSION**, run:  
 **python runserver.py**  
-4. When the program starts executin (DEBUG OR RELEASE VERSION), one or more URL will be show.  
-Open the URL which works on your device in a JAVASCRIPT supported Web Browser and view your DESKTOP screen where the program is running.
+4. When the program starts executin (**DEBUG** OR **RELEASE VERSION**), one or more **URL will be shown**.  
+**Open the URL** which works on your device in a **JAVASCRIPT supported Web Browser** and **view your DESKTOP screen where the program is running**.
   
 ## Requirements:  
 1. Python  
